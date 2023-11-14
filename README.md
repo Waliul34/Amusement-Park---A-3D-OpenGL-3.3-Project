@@ -2,7 +2,7 @@
 It's a project based on the things we have learned in the Computer Graphics laboratory. \
 Visualization: https://youtu.be/YixjMjzXj9g
  
- Functions: 
+Functions: 
 ~~~~~~~~~~~~~~~~~~~~ \
 Movements:
 ----------------------------------- 
