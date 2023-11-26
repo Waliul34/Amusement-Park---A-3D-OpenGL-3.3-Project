@@ -3,7 +3,7 @@ It's a project based on the things we have learned in the Computer Graphics labo
 Visualization: https://youtu.be/YixjMjzXj9g 
  
 Functions: 
-~~~~~~~~~~~~~~~~~~~~ \ 
+~~~~~~~~~~~~~~~~~~~~ \
 Movements:
 ----------------------------------- 
 Move (Forward, Backward, Left, Right): (W, S, A, D) 
