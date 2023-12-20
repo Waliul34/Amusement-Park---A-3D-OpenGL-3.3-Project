@@ -16,7 +16,7 @@ Roll (Right, Left): (Z, Q)
 Lighting: 
 ----------------------------------- 
 Day and Night Toggle: 0 
-Point Light 1 ON/OFF: 1 
+Point Light 1 ON/OFF: 1  
 Point Light 2 ON/OFF: 2 
 Point Light 3 ON/OFF: 3 
 Point Light 4 ON/OFF: 4 
