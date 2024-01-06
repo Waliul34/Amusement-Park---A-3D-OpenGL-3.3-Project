@@ -6,7 +6,7 @@ Functions:
 ~~~~~~~~~~~~~~~~~~~~ \ 
 Movements:
 ----------------------------------- 
-Move (Forward, Backward, Left, Right): (W, S, A, D)  
+Move (Forward, Backward, Left, Right): (W, S, A, D)   
 Move (Up, Down): (E, R) 
 Pitch (Up, Down): (X, C) 
 Yaw (Right, Left): (Y, U)
